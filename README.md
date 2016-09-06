@@ -7,8 +7,8 @@ See : https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-rou
 Clone this repository:
 
 ```sh
-git clone https://github.com/mrpatiwi/routed-react.git
-de routed-react
+git clone https://github.com/bmontalvo/routed-react.git
+cd routed-react
 ```
 
 Install dependencies:
